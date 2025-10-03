@@ -33,6 +33,6 @@
 ## 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/harsha-vardhan-banagani-98a9082ba/)  
 - [Portfolio Website](#) *(coming soon)*  
-- 📧 Email: yourmail@example.com  
+- 📧 Email: banaganiharshavardhan@gmail.com  
 
 ---
