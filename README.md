@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @harshavardhanbanagani
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Harsha 👋
 
-<!---
-harshavardhanbanagani/harshavardhanbanagani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **BTech Student | AI/ML Enthusiast | UI/UX Explorer**
+
+🌱 Currently learning:  
+- Machine Learning & AI  
+- Java & Full-Stack Development  
+- UI/UX Design Principles  
+
+🚀 Projects I’m working on:  
+- **Smart Billing System** – Retail store automation with barcode scanning & UPI payments  
+- **MITS Eventura** – College event & faculty presence tracking app  
+- **Expense Categorization App** – AI-based personal finance tracker  
+
+📚 Interests:  
+- Artificial Intelligence & Data Science  
+- Mixed Reality (AR/VR) Apps  
+- SaaS Product Development  
+
+📫 Reach me at:  
+- [LinkedIn](https://www.linkedin.com/in/harsha-vardhan-banagani-98a9082ba/)  
+- [Email](mailto:banaganiharshavardhan@gmail.com)   
+
+⚡ Fun fact: I love mixing tech + design to build products that feel futuristic!  
