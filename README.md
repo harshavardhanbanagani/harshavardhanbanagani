@@ -1,197 +1,140 @@
-<!-- ================= Banner ================= -->
+# 👋 Hello, I'm Harshavardhan Banagani
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1E3C72,100:2A5298&text=Harshavardhan%20Banagani&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20(AI)%20Student%20|%20Full%20Stack%20Developer%20|%20Machine%20Learning%20Enthusiast&descAlignY=58"/>
-</p>
+### Computer Science (Artificial Intelligence) Student | Full Stack Developer | AI/ML Enthusiast
 
-<h1 align="center">Hi 👋 I'm Harshavardhan Banagani</h1>
+I enjoy turning ideas into practical software solutions. Whether it's developing full-stack web applications or building machine learning models, I focus on writing clean, maintainable, and impactful code.
 
-<h3 align="center">
-Computer Science (Artificial Intelligence) Student • Full Stack Developer • AI/ML Enthusiast
-</h3>
-
-<p align="center">
-Passionate about building scalable web applications and intelligent AI solutions.
-</p>
+Currently pursuing my B.Tech in Artificial Intelligence at Madanapalle Institute of Technology & Science while continuously improving my software development and problem-solving skills.
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 B.Tech in Artificial Intelligence
+🎓 B.Tech in Artificial Intelligence (2023–2027)
 
-🏫 Madanapalle Institute of Technology & Science (MITS)
+💡 Passionate about Software Development & Machine Learning
 
-📍 Andhra Pradesh, India
+🌱 Currently exploring
 
-💻 Full Stack Developer
-
-🤖 AI & Machine Learning Enthusiast
-
-🌱 Currently improving my skills in
-
-- Python
+- Data Structures & Algorithms
+- Python Development
 - React.js
 - Django
 - Machine Learning
-- SQL
-- Data Structures & Algorithms
 
-💡 I enjoy developing practical software solutions that solve real-world problems.
+🏆 Winner of the GUVI–HCL Hackathon
+
+🎯 Looking for Software Engineer opportunities where I can learn, contribute, and grow.
 
 ---
 
-# 💻 Technical Skills
+## 🛠 Tech Toolbox
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,js,mysql"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react"/>
-</p>
+React • HTML5 • CSS3
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=django"/>
-</p>
+Django
 
 ### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-</p>
+MySQL • MongoDB
+
+### Machine Learning
+
+Pandas • NumPy • Scikit-learn
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
-### Libraries
-
-- Pandas
-- NumPy
-- Scikit-Learn
+Git • GitHub • VS Code
 
 ---
 
-# 🚀 Featured Projects
+# 💼 Projects
 
 ## 🎓 Student Management System
 
-**Tech Stack**
+A complete full-stack application for managing student records efficiently.
 
-React.js • Django • Python • MySQL
+### Highlights
 
-### Features
-
-- Secure Login Authentication
+- Secure Authentication
 - Student Registration
 - CRUD Operations
-- Student Search
+- Search Functionality
 - MySQL Integration
-- Responsive User Interface
+- React + Django Architecture
 
 ---
 
 ## 🎉 Aura 2K26 Event Registration Platform
 
-**Tech Stack**
+Designed and developed a responsive platform to simplify participant registration and event management.
 
-React.js • HTML • CSS • JavaScript
+### Highlights
 
-### Features
-
-- Event Registration
+- Responsive UI
+- Easy Registration Workflow
 - Participant Management
-- Responsive Design
-- User Friendly Interface
+- Modern React Interface
 
 ---
 
-# 💼 Internship
+# 💻 Internship Experience
 
-## AI & Machine Learning Intern
-
+### AI & Machine Learning Intern
 **Saredufy Web Plus Academy Pvt. Ltd.**
 
-Worked on an **Expense Categorization System** using
+Worked on an Expense Categorization System using Machine Learning techniques.
 
-- Python
-- Pandas
-- Scikit-Learn
+Key Contributions:
 
-Responsibilities included
-
-- Data Preprocessing
+- Data Cleaning
 - Feature Engineering
 - Model Training
-- Model Evaluation
-- Financial Transaction Classification
+- Transaction Classification
+- Performance Evaluation
 
 ---
 
 # 🏆 Achievements
 
-🥇 Winner — **₹10,000 First Prize** in the **GUVI–HCL Hackathon**
+🥇 Winner — GUVI–HCL Hackathon
 
-🎯 Student Coordinator — **Aura 2K26 Department Symposium**
+🎤 Student Coordinator — Aura 2K26 Department Symposium
 
 ---
 
 # 📜 Certifications
 
-✔ Python Training — Skill Vertex
-
-✔ SQL and Relational Databases 101 — Cognitive Class
-
-✔ Foundations of Prompt Engineering — AWS Skill Builder
+- Python Training
+- SQL & Relational Databases 101
+- Foundations of Prompt Engineering
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
 
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&margin-w=10"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark"/>
 
 </p>
 
@@ -202,42 +145,29 @@ Responsibilities included
 - Advanced Python
 - Data Structures & Algorithms
 - Machine Learning
-- Django REST Framework
-- React Ecosystem
-- Problem Solving
+- Clean Code Practices
+- Software Engineering Principles
 
 ---
 
-# 📫 Connect with Me
+# 📫 Let's Connect
 
-<p align="left">
+📧 Email: banaganiharshavardhan@gmail.com
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+💼 LinkedIn: YOUR_LINKEDIN_URL
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:banaganiharshavardhan@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+🌐 Portfolio: YOUR_PORTFOLIO_URL
 
 ---
 
-# 💭 Quote
+## 💭 My Philosophy
 
-> "Every expert was once a beginner. Keep learning, keep building."
+> "Learning never stops. Every project is an opportunity to build something better than yesterday."
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge"/>
+Thanks for visiting my profile! ⭐
 
 </p>
-
-<h3 align="center">⭐ Thanks for visiting my GitHub Profile! ⭐</h3>
